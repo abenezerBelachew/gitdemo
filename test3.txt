@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 resolve conflict
+||||||| merged common ancestors
+=======
+conflict resolution
+>>>>>>> 65326c889fdc4026a2c53b1f6b8ad208bab273a6
